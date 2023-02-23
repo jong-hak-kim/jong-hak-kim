@@ -23,7 +23,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whdgkr9070)](https://solved.ac/whdgkr9070)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JH9043&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jong-hak-kim&layout=compact)
 
 
 
