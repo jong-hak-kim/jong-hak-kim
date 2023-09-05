@@ -25,7 +25,6 @@
 #### 📚 Blog
 <div>
   <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
-  <a href="https://www.notion.so/500ba83dac1a4fbab911ab9a80e93d51" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </div>
 
 #### ✏ Problem Solving
