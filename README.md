@@ -1,4 +1,4 @@
-<div align="center"><h3>안녕하세요, 김종학입니다!🧑🏻‍💻</h1></div>
+<div align="center"><h3>안녕하세요, 김종학입니다!🧑🏻‍💻</h3></div>
 
 
 ### My Skil Set 💪🏻
