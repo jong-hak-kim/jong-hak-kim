@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
 <div align="center"><h3>안녕하세요, 김종학입니다!🧑🏻‍💻</h3></div>
 
 
