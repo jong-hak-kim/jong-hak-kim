@@ -23,12 +23,13 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 </div>
 
-#### 📖 Blog 📖
+ <!-- #### 📖 Blog 📖
 <div>
   <a href ="https://velog.io/@whdgkr9070">
   <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
   </a>
 </div>
+-->
 
 #### ✏ Problem Solving
 
